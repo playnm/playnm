@@ -4,6 +4,7 @@
 
 <h1 align="center">println!("Hello There");</h1>
 <h3 align="center">I'm a Computer Science student from Germany 🇩🇪</h3>
+<h3 align="center">Currently I'm working as a Software Engineer ⚙️</h3>
 
 ---
 
