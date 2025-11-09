@@ -1,5 +1,5 @@
 <p align="center">
-  <div class="tenor-gif-embed" data-postid="19191459" data-share-method="host" data-aspect-ratio="3.01887" data-width="100%"><a href="https://tenor.com/view/rust-lang-ferris-gif-19191459">Rust Lang Ferris GIF</a>from <a href="https://tenor.com/search/rust+lang+ferris-gifs">Rust Lang Ferris GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+  <img src="https://www.clipartmax.com/png/small/155-1553833_this-post-is-devoted-to-all-those-who-is-confused-by-rust.png" alt=""/>
 </p>
 
 <h1 align="center">println!("Hello There");</h1>
