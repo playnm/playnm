@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.clipartmax.com/png/small/155-1553833_this-post-is-devoted-to-all-those-who-is-confused-by-rust.png" alt=""/>
+  <img src="https://rustacean.net/assets/rustacean-flat-happy.png" alt="Ferris the crab" width="200"/>
 </p>
 
 <h1 align="center">println!("Hello There");</h1>
