@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://rustacean.net/assets/rustacean-flat-gesture.gif" alt="Ferris the crab" width="150"/>
+  <img src="https://tenor.com/de/view/rust-lang-ferris-gif-19191459" alt="Ferris the crab" width="150"/>
 </p>
 
 <h1 align="center">println!("Hello There");</h1>
